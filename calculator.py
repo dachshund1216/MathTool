@@ -10,3 +10,5 @@ def multiply(a, b):
 
 def devide_new(a, b):
   return a/b
+
+
